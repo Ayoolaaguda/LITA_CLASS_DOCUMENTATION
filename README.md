@@ -2,6 +2,18 @@
 
 ## Project Title: E commerce Sales Analysis
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
 ### Project Overview
 ---
 This purpose of this project is to gain insight into the performance of sales over the past year. By carrying out queries based on various parameters we aim to analyse and draw insight to help drive decison making and tell compelling stories from our data.
